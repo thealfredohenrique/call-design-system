@@ -4,6 +4,7 @@ import { Avatar, AvatarProps } from '@call/react'
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
+  tags: ['autodocs'],
   args: {
     src: 'https://github.com/thealfredohenrique.png',
     alt: 'Alfredo Henrique',

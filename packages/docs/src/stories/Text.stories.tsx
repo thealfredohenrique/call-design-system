@@ -4,6 +4,7 @@ import { Text, TextProps } from '@call/react'
 export default {
   title: 'Typography/Text',
   component: Text,
+  tags: ['autodocs'],
   args: {
     children:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat praesentium nisi possimus. Obcaecati laborum corporis, velit modi voluptates minus possimus cum quae hic saepe quas consequuntur similique nostrum nam ad?',

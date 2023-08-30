@@ -4,6 +4,7 @@ import { Box, Text, MultiStep, MultiStepProps } from '@call/react'
 export default {
   title: 'Form/Multi Step',
   component: MultiStep,
+  tags: ['autodocs'],
   args: {
     size: 4,
     currentStep: 1,
