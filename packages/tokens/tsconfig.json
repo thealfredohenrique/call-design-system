@@ -1,4 +1,6 @@
 {
-  "extends": "@call/ts-config/base.json",
-  "include": ["src"]
+  "extends": "@call-design-system/ts-config/base.json",
+  "include": [
+    "src"
+  ]
 }

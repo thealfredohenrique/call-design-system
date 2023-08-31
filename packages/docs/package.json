@@ -1,12 +1,13 @@
 {
-  "name": "@call/docs",
+  "name": "@call-design-system/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "storybook dev -p 6006",
-    "build": "storybook build && touch ./storybook-static/.nojekyll",
+    "build": "storybook build",
+    "deploy": "storybook build && touch ./storybook-static/.nojekyll",
     "deploy-storybook": "storybook-to-ghpages"
   },
   "keywords": [],
@@ -28,10 +29,10 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
-    "@call/eslint-config": "*",
-    "@call/react": "*",
-    "@call/tokens": "*",
-    "@call/ts-config": "*",
+    "@call-design-system/eslint-config": "*",
+    "@call-design-system/react": "*",
+    "@call-design-system/tokens": "*",
+    "@call-design-system/ts-config": "*",
     "@phosphor-icons/react": "^2.0.10",
     "@storybook/addon-a11y": "^7.4.0",
     "polished": "^4.2.2",

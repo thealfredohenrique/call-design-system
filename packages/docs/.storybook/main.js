@@ -30,7 +30,7 @@ const config = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === "PRODUCTION") {
-      config.base = "/call/"
+      config.base = "/call-design-system/"
     }
 
     return config

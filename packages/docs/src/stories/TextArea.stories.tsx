@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@call/react'
+import { Box, Text, TextArea, TextAreaProps } from '@call-design-system/react'
 
 export default {
   title: 'Form/Text Area',

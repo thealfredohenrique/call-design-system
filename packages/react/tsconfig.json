@@ -1,4 +1,6 @@
 {
-  "extends": "@call/ts-config/react.json",
-  "include": ["src"]
+  "extends": "@call-design-system/ts-config/react.json",
+  "include": [
+    "src"
+  ]
 }

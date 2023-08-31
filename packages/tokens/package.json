@@ -1,5 +1,5 @@
 {
-  "name": "@call/tokens",
+  "name": "@call-design-system/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@call/eslint-config": "*",
-    "@call/ts-config": "*",
+    "@call-design-system/eslint-config": "*",
+    "@call-design-system/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }

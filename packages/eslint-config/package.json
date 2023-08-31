@@ -1,5 +1,5 @@
 {
-  "name": "@call/eslint-config",
+  "name": "@call-design-system/eslint-config",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,

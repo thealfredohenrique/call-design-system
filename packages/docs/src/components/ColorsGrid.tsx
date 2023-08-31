@@ -1,4 +1,4 @@
-import { colors } from '@call/tokens'
+import { colors } from '@call-design-system/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

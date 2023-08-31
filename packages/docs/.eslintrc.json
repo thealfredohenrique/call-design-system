@@ -1,5 +1,5 @@
 {
   "extends": [
-    "@call/eslint-config"
+    "@call-design-system/eslint-config"
   ]
 }

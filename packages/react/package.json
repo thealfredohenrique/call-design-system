@@ -1,5 +1,5 @@
 {
-  "name": "@call/react",
+  "name": "@call-design-system/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@call/eslint-config": "*",
-    "@call/tokens": "*",
-    "@call/ts-config": "*",
+    "@call-design-system/eslint-config": "*",
+    "@call-design-system/tokens": "*",
+    "@call-design-system/ts-config": "*",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
