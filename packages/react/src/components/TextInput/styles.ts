@@ -31,7 +31,7 @@ export const TextInputContainer = styled('div', {
 
   defaultVariants: {
     size: 'md',
-  }
+  },
 })
 
 export const Prefix = styled('span', {
